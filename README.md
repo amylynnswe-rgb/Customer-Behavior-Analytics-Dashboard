@@ -15,6 +15,8 @@ Core questions addressed:
 - Does the subscription program actually increase spend?
 - Which products and customer segments deserve the most marketing/discount investment?
 - What separates new, returning, and loyal customers?
+  <img width="1432" height="805" alt="Screenshot 2026-09-20 214602" src="https://github.com/user-attachments/assets/ceca8588-8b4d-483e-ab91-f2623e119973" />
+
 
 ## Methodology
 
